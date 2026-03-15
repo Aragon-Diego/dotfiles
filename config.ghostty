@@ -1,1 +1,4 @@
-/home/starman/.config/ghostty/config.ghostty
+# ~/.config/ghostty/config
+font-family = "Hack Nerd Font"
+font-size = 12
+#
