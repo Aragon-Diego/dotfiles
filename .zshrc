@@ -18,3 +18,5 @@ compinit
 
 # starship
 eval "$(starship init zsh)"
+
+fastfetch

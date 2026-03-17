@@ -2,7 +2,7 @@
 font-family = "Commit Mono"
 font-size = 12
 
-
+background-opacity = 0.8
 palette = 0=#000000
 palette = 1=#a00010
 palette = 2=#409820
